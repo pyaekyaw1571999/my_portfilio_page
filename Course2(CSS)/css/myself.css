@@ -1,0 +1,41 @@
+body{
+	background-color: #B5DCD7;
+	font-family: Comic Sans MS, Arial;
+	
+  
+
+}
+
+header{
+	
+	
+	font-size: 200%;
+	text-align: center;
+	color: #FFFFFF;
+
+}
+
+
+nav{
+	
+	text-align: center;
+	
+}
+
+
+h2{
+	font-family: Comic Sans MS, Arial;
+	font-size: 150%;
+	color: #199FE2;
+}
+
+h3{
+	font-family: Comic Sans MS, Arial;
+	font-size: 150%;
+	color:#C77C32;
+}
+
+
+footer{
+	text-align: center;
+}
